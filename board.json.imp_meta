@@ -1,0 +1,246 @@
+{
+    "board_display_options": {
+        "-1": {
+            "keepouts_outline": true,
+            "planes_outline": false
+        },
+        "-100": {
+            "keepouts_outline": true,
+            "planes_outline": false
+        },
+        "-120": {
+            "gfx": true,
+            "text": true
+        },
+        "-2": {
+            "keepouts_outline": true,
+            "planes_outline": false
+        },
+        "0": {
+            "keepouts_outline": true,
+            "planes_outline": false
+        },
+        "20": {
+            "gfx": true,
+            "text": true
+        }
+    },
+    "grid_spacing": 50000,
+    "layer_display": {
+        "layer_opacity": 50.0,
+        "layers": {
+            "-1": {
+                "display_mode": "fill_only",
+                "visible": false
+            },
+            "-100": {
+                "display_mode": "fill_only",
+                "visible": true
+            },
+            "-110": {
+                "display_mode": "outline",
+                "visible": false
+            },
+            "-120": {
+                "display_mode": "hatch",
+                "visible": true
+            },
+            "-130": {
+                "display_mode": "fill",
+                "visible": false
+            },
+            "-140": {
+                "display_mode": "outline",
+                "visible": false
+            },
+            "-150": {
+                "display_mode": "outline",
+                "visible": false
+            },
+            "-160": {
+                "display_mode": "outline",
+                "visible": true
+            },
+            "-2": {
+                "display_mode": "hatch",
+                "visible": false
+            },
+            "-200": {
+                "display_mode": "fill",
+                "visible": false
+            },
+            "0": {
+                "display_mode": "fill",
+                "visible": true
+            },
+            "10": {
+                "display_mode": "outline",
+                "visible": false
+            },
+            "100": {
+                "display_mode": "outline",
+                "visible": true
+            },
+            "110": {
+                "display_mode": "outline",
+                "visible": true
+            },
+            "20": {
+                "display_mode": "fill_only",
+                "visible": true
+            },
+            "200": {
+                "display_mode": "fill",
+                "visible": false
+            },
+            "30": {
+                "display_mode": "fill",
+                "visible": false
+            },
+            "40": {
+                "display_mode": "outline",
+                "visible": false
+            },
+            "50": {
+                "display_mode": "outline",
+                "visible": false
+            },
+            "60": {
+                "display_mode": "outline",
+                "visible": true
+            }
+        }
+    },
+    "nets": {
+        "airwires_visible": {
+            "013a2a6a-09a9-4b8a-b786-ddd1ce723c03": true,
+            "03409d01-1205-4add-af94-630191bb58fc": true,
+            "0623897a-d020-4b48-96e2-4e5b2b06dab7": true,
+            "087f9938-a288-4b8b-8f95-9701646751e8": true,
+            "0a8dd633-839a-42b3-82da-ca2c7632a708": true,
+            "0c887041-8bd4-4b29-b685-d216d5c8f699": true,
+            "11d10bc7-24f1-41d9-91ea-13ceea2aeba6": true,
+            "1583d93f-16c4-4478-a1cb-6c4355cd253c": true,
+            "15cb73be-444d-4904-a371-3a1f85dddd3c": true,
+            "1978bdf4-c6a1-46c5-96fb-0a40f0f22bd2": true,
+            "19e14880-5255-431e-ad07-f0128aa2d788": true,
+            "1a165313-f0ba-4d70-bf69-0140222f28c9": true,
+            "1cc07ab2-93a1-4ff2-a63b-6f1f5f07a647": true,
+            "20b4c1aa-3a93-47ea-b38e-6fed4e345472": true,
+            "22811477-6ad4-49c9-a537-da9b807bb209": true,
+            "23c8b297-765a-45b3-9473-5610dfc3a716": true,
+            "243123dc-db53-4e68-a783-562994042b4c": true,
+            "279e9afd-0eda-4df0-8a68-443f79ef639b": true,
+            "2a517223-ecb7-4d11-8e70-41d799ca680a": true,
+            "2ad5f1d0-63d2-482c-b8c3-57a670fed4f1": true,
+            "2b900a70-16e6-45d0-b4ec-fd651a2fcab1": true,
+            "2d39a843-159a-4e57-bafb-c2ec5f34d38f": true,
+            "30de5c18-c0ef-4919-a66c-990b7053aef4": true,
+            "3496d24f-f808-49ba-af13-8ed5948dd838": true,
+            "35a7ab51-6ae7-4baa-b198-f826fcc91673": true,
+            "393cdcc3-8141-46be-82fa-86eeb00ec3a6": true,
+            "39cca82f-989e-46aa-9526-8e6bc3b1911a": true,
+            "3ad8836c-fe02-4ccc-aa8e-7333be180eda": true,
+            "3b95b6cb-382a-4b68-9099-3ded9a22b601": true,
+            "3ed8280a-d048-4d27-af58-2fbc6e655f3e": true,
+            "40c5e8e5-a492-4984-bdf8-56fb1bd6cfdc": true,
+            "40e90dd6-a87a-42a8-a7ce-a7775db9daf2": true,
+            "418e03ef-917d-479f-8c8d-c8a29e7ee4cd": true,
+            "42a26486-786e-4627-a86a-bd3b411c6b9a": true,
+            "42f3be5f-ffd1-4589-9c20-1ed70f65aab1": true,
+            "43797ab0-62bd-4eec-9f8e-e9bf6f55a8f4": true,
+            "43c42711-cc50-4929-a491-c2ac8ba4c6e4": true,
+            "46ee37da-7f27-4825-b479-79bef9522979": true,
+            "480f9a6a-5cfa-4188-b05c-7bf69e257891": true,
+            "49d1e7a5-d951-41a1-b065-5fc581a11402": true,
+            "4a533b89-477c-4954-9beb-3083be638753": true,
+            "4dd6d9e7-2d26-419c-a4e5-d386b559567e": true,
+            "4e2c6e27-7a80-4191-815d-433eb5705b83": true,
+            "4f24f1c8-cfe5-43c3-aae9-08c52d5c053d": true,
+            "5051c5ed-ff71-4c29-85d5-d4dfc54c48d1": true,
+            "50d84807-d188-4419-a1a4-ce416eac24d5": true,
+            "5154b3b2-4b1d-44bf-838d-ecf1b932e470": true,
+            "52ef04db-7add-4b9f-b381-ade111142a2e": true,
+            "53bb7b66-df6d-4229-93d9-39d2a1739f43": true,
+            "59497553-d014-41d3-9d2c-565826f3eda1": true,
+            "5a155f17-16ea-4178-82d6-3f7af7c295b9": true,
+            "5a7f2649-6bb9-402e-8706-e31afbf629f0": true,
+            "5d82cf43-f393-45bd-829c-59c4c9ff6efe": true,
+            "5e051a37-ada1-4fec-a32b-c5682fe7db31": true,
+            "5e1f2498-a5b0-4e0b-a689-ccc208dd3fbc": true,
+            "5f2ed9ac-f467-4ea0-a912-39721b63d3c3": true,
+            "62be376b-ca92-46b0-8acc-b6acf160079a": true,
+            "66b61131-76e5-4f17-ae42-2533c7734fdc": true,
+            "67e8d865-2098-43c9-bc0c-93e3faeb9105": true,
+            "6fdebb66-916b-49bc-8f7f-663de0c8f9ac": true,
+            "754a1638-304b-47f9-b0de-e5f75d740dfd": true,
+            "771d721e-0817-4354-b309-43ff563c7eeb": true,
+            "78e21920-e8bd-4b90-83bf-bff1fa8ae648": true,
+            "7946a4b0-6d27-4ef6-a86e-3f8ea2b40191": true,
+            "797ebdc9-8431-4d13-8645-4fb765378dcc": true,
+            "7c2b2717-a305-4d66-93f2-8cc5e4db6b72": true,
+            "7f34dc77-8edc-4110-83f9-b5269f53b97e": true,
+            "7f6a701e-7889-44e2-8a04-42d144d82dcd": true,
+            "81fdc936-c178-4fbb-91f1-1b6addb3d052": true,
+            "85001463-cdd4-4210-91f5-bf1ed292553d": true,
+            "85d23491-37d5-4a50-8d7e-50f13b91b758": true,
+            "88b4521e-1e51-476d-ab5e-91499e0e7e65": true,
+            "89a95a33-b5b6-4ef1-b3b9-228c2d2cb35d": true,
+            "8e04966d-29d5-49cc-a6e3-b48e0cdd3682": true,
+            "8ec94492-f779-4da2-bafe-a9d2763992d0": true,
+            "99fdc355-5730-4913-8a5b-56153cb8e304": true,
+            "9f0984da-491e-42c1-bc72-174e778719c2": true,
+            "a11fce97-0bd3-4a6b-b599-77d9873a489d": true,
+            "aaba2920-c9f3-44be-a251-c1381747009a": true,
+            "abed34eb-008c-45f4-a64d-3bc2e475ca30": true,
+            "abf6213f-97da-4700-ae13-09529d1f3937": true,
+            "acf0bdf1-7e22-451e-bc9d-26fbf18b5989": true,
+            "b2545e50-a184-46ef-948a-99a5b19782cc": true,
+            "b48425a6-b95e-4360-8e0c-1fc394c92d98": true,
+            "b49b47bc-58d4-4931-806d-93b1f4c06602": true,
+            "b4e7f922-92f5-4939-ac80-0517611f538e": true,
+            "b63b8d46-e836-45a9-8747-c89bc2ad9199": true,
+            "b74b8897-7195-44a1-9598-cc2dd6414998": true,
+            "b921dd32-4201-40f9-bc37-e9e562956358": true,
+            "bc53be8e-ae77-4f31-9641-ad4ae2c758a4": true,
+            "bd1ff3ec-ce3f-4833-a9c9-6c48d7d2fad0": true,
+            "bd289211-847e-4b1a-9dee-39731517d823": true,
+            "c224ba9d-a27c-4ff9-abc0-4220775125b2": true,
+            "c44aac3f-53c2-45a6-8c90-d3ba5ff60887": true,
+            "c595b283-4e28-4c59-8b78-82acefaa9723": true,
+            "c71a3c67-d07c-4145-abd1-dfd5938492ba": true,
+            "c7b8f105-23be-4b51-9b10-f5ef67b9f496": true,
+            "c7e2774b-ecdb-4079-98e5-daee920bc021": true,
+            "cb9ae54d-b146-4d39-8c53-830b9bf9c2a8": true,
+            "ccb30ab4-2990-467f-97ae-bfc9e3cfa90f": true,
+            "cd75ea31-a8db-4115-8df8-438a5730d65d": true,
+            "cfb63db1-20de-4082-8cf0-efb1551ddfbd": true,
+            "cfc86051-37fe-4b24-ae89-0ac1126ae0bd": true,
+            "d766ee5e-188c-44ac-855f-f48b8847594a": true,
+            "dc41d49e-dedc-42cf-8521-3ad6c67ebecf": true,
+            "dd31905c-868e-45d0-b852-c167818564fb": true,
+            "e347e986-635b-487b-bfa9-e263ffc99474": true,
+            "e69cf103-bc81-4ecd-abc2-c7d3fb750625": true,
+            "e6f09ee2-8aad-4a94-b1dc-ad4aec003c07": true,
+            "e8cd33ee-654e-4948-b43e-0c0a563eb0a6": true,
+            "e9f534f6-c122-41e2-9dd5-8305b7c9bec7": true,
+            "ec78fcca-25cf-4c98-b10a-58bb9bd99fd6": true,
+            "ed06907e-7dbc-4e91-b824-8dc8fcfe212d": true,
+            "ee96cb18-e15b-4a92-8f3f-9f9148cc87a2": true,
+            "efe76281-a0d4-422f-90c8-82c5ae6ec435": true,
+            "f07bc069-2972-451c-ad14-b6f8b7d8b05b": true,
+            "f1e6831f-a265-4993-bc4a-44d95c2e5809": true,
+            "f2c00ca0-cb62-4e0e-973f-d6bfcc24ac5d": true,
+            "f6b7b00c-a4e1-4120-91df-c98b684bd719": true,
+            "f78568b0-9127-47b7-8d4c-f293982336a0": true,
+            "fb53fd52-c142-4c2d-b283-98c2f214637e": true,
+            "fbf78f3b-55b5-4f95-b2b1-db3f1e0f852c": true
+        },
+        "net_colors": null
+    },
+    "parts": {
+        "parts_placed": [
+            "6cd5c77c-f0c9-4b7d-bdad-e36a81dbdc7d"
+        ]
+    }
+}

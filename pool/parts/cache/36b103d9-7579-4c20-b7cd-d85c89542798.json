@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "TC2030-CTX"
+    ],
+    "datasheet": [
+        false,
+        "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-Datasheet-Rev-B.pdf"
+    ],
+    "description": [
+        false,
+        "6 Pin JTAG Needle Connector"
+    ],
+    "entity": "49ed5fb2-ee5f-41db-9bef-fcc67f7c2af4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Tag Connect"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "3f107529-5c91-4c38-a9b1-42ab5fedbd5a": "TC2030-CTX"
+    },
+    "package": "0a43a23a-cebf-4c41-bfa2-c8aaf49b3386",
+    "pad_map": {
+        "019805fd-b553-4ddb-b78a-5f1f743b945e": {
+            "gate": "deb03917-2caa-4711-94a9-4e01060ec979",
+            "pin": "514766d0-6907-43bd-8337-efa863ed407b"
+        },
+        "19ffd2d0-6129-45a0-8edf-989a9d6b91bb": {
+            "gate": "deb03917-2caa-4711-94a9-4e01060ec979",
+            "pin": "81ff50f5-e053-43a9-ba0a-2d3923e462b3"
+        },
+        "482e53b2-d8bc-4416-8f86-2d7e2d05992d": {
+            "gate": "deb03917-2caa-4711-94a9-4e01060ec979",
+            "pin": "1a9f65e4-0f30-4558-8229-6c1aba39f8a5"
+        },
+        "7596ae93-e8d2-4b08-9eca-f09c0af41962": {
+            "gate": "deb03917-2caa-4711-94a9-4e01060ec979",
+            "pin": "d2d4f9de-edb2-45fd-b26f-f291691a354f"
+        },
+        "e2b9bd54-0da8-4544-844c-c6a3d62ba061": {
+            "gate": "deb03917-2caa-4711-94a9-4e01060ec979",
+            "pin": "bc0fcfa2-6d84-4cef-8da6-d1d6bad5878a"
+        },
+        "f3895aad-3840-4828-b203-557bb18262a4": {
+            "gate": "deb03917-2caa-4711-94a9-4e01060ec979",
+            "pin": "40944a95-b907-4676-961c-a8a3956e66be"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "36b103d9-7579-4c20-b7cd-d85c89542798",
+    "value": [
+        false,
+        "6 Pin JTAG"
+    ]
+}

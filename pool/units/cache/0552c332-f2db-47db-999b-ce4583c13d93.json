@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Reference Pins",
+    "pins": {
+        "1c94d7c3-e49f-43c8-8362-e2084efe0bba": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF2",
+            "swap_group": 0
+        },
+        "25f615a7-34ed-4612-b97f-34514c3cab3b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0552c332-f2db-47db-999b-ce4583c13d93"
+}

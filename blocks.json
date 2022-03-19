@@ -1,0 +1,11 @@
+{
+    "blocks": {
+        "e3770fe4-1777-45b1-90cb-55ea4a819843": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_sch.json",
+            "symbol_filename": ""
+        }
+    },
+    "top_block": "e3770fe4-1777-45b1-90cb-55ea4a819843",
+    "type": "blocks"
+}

@@ -1,0 +1,649 @@
+{
+    "n_inner_layers": 2,
+    "name": "4layer-jlcpcb",
+    "net_class_default": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+    "net_classes": {
+        "4e6fac23-1fe3-4326-b5d2-71e1386c6c86": "gate_drive",
+        "a02ac11a-6c07-493a-9027-5294e0f81d0f": "default"
+    },
+    "notes": "",
+    "rules": {
+        "clearance_copper": {
+            "37f3765b-1e01-4b7c-9116-da9df300a902": {
+                "clearances": [
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "other"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "track"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "pad"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "pad_th"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "plane"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "other",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "track",
+                            "track"
+                        ]
+                    },
+                    {
+                        "clearance": 200000,
+                        "types": [
+                            "track",
+                            "pad"
+                        ]
+                    },
+                    {
+                        "clearance": 330000,
+                        "types": [
+                            "track",
+                            "pad_th"
+                        ]
+                    },
+                    {
+                        "clearance": 254000,
+                        "types": [
+                            "track",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 250000,
+                        "types": [
+                            "track",
+                            "plane"
+                        ]
+                    },
+                    {
+                        "clearance": 330000,
+                        "types": [
+                            "track",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "track",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "track",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "track",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 127000,
+                        "types": [
+                            "pad",
+                            "pad"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "pad",
+                            "pad_th"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "pad",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 250000,
+                        "types": [
+                            "pad",
+                            "plane"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "pad",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "pad",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "pad",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "pad",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "pad_th",
+                            "pad_th"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "pad_th",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 250000,
+                        "types": [
+                            "pad_th",
+                            "plane"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "pad_th",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "pad_th",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "pad_th",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "pad_th",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 254000,
+                        "types": [
+                            "via",
+                            "via"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "via",
+                            "plane"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "via",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "via",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "via",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "via",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 250000,
+                        "types": [
+                            "plane",
+                            "plane"
+                        ]
+                    },
+                    {
+                        "clearance": 153000,
+                        "types": [
+                            "plane",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "plane",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "plane",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "plane",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "hole_pth",
+                            "hole_pth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "hole_pth",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "hole_pth",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "hole_pth",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "hole_npth",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "hole_npth",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "hole_npth",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "board_edge",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "board_edge",
+                            "text"
+                        ]
+                    },
+                    {
+                        "clearance": 100000,
+                        "types": [
+                            "text",
+                            "text"
+                        ]
+                    }
+                ],
+                "enabled": true,
+                "layer": 10000,
+                "match_1": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "match_2": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "order": 0,
+                "routing_offset": 50000
+            }
+        },
+        "clearance_copper_keepout": {},
+        "clearance_copper_other": {
+            "92ce9a65-f5de-4487-8115-96ae6f2c9487": {
+                "clearances": [
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "track",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 381000,
+                        "types": [
+                            "track",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "pad",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 381000,
+                        "types": [
+                            "pad",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "pad_th",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 381000,
+                        "types": [
+                            "pad_th",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "via",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 381000,
+                        "types": [
+                            "via",
+                            "board_edge"
+                        ]
+                    },
+                    {
+                        "clearance": 500000,
+                        "types": [
+                            "plane",
+                            "hole_npth"
+                        ]
+                    },
+                    {
+                        "clearance": 381000,
+                        "types": [
+                            "plane",
+                            "board_edge"
+                        ]
+                    }
+                ],
+                "enabled": true,
+                "layer": 10000,
+                "match": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "order": 0,
+                "routing_offset": 50000
+            }
+        },
+        "clearance_same_net": {},
+        "clearance_silkscreen_exposed_copper": {
+            "clearance_bottom": 150000,
+            "clearance_top": 150000,
+            "enabled": true,
+            "order": -1
+        },
+        "diffpair": {},
+        "hole_size": {
+            "70142312-90fd-4e49-b434-4b634f858cc6": {
+                "diameter_max": 10000000,
+                "diameter_min": 254000,
+                "enabled": true,
+                "match": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "order": 0
+            }
+        },
+        "parameters": {
+            "courtyard_expansion": 250000,
+            "enabled": true,
+            "hole_solder_mask_expansion": 100000,
+            "order": -1,
+            "paste_mask_contraction": 0,
+            "solder_mask_expansion": 100000,
+            "via_solder_mask_expansion": 100000
+        },
+        "plane": {
+            "a4a43bea-3a7d-4a83-822f-8b9e5cdf154c": {
+                "enabled": true,
+                "layer": 10000,
+                "match": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "order": 1,
+                "settings": {
+                    "connect_style": "solid",
+                    "fill_style": "solid",
+                    "hatch_border_width": 500000,
+                    "hatch_line_spacing": 500000,
+                    "hatch_line_width": 200000,
+                    "keep_orphans": false,
+                    "min_width": 200000,
+                    "style": "round",
+                    "text_style": "expand",
+                    "thermal_gap_width": 200000,
+                    "thermal_spoke_width": 200000
+                }
+            }
+        },
+        "track_width": {
+            "2cc98cf0-aa4d-4b74-9d74-dcc60038e33c": {
+                "enabled": true,
+                "match": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "order": 1,
+                "widths": {
+                    "-1": {
+                        "def": 200000,
+                        "max": 10000000,
+                        "min": 190000
+                    },
+                    "-100": {
+                        "def": 190000,
+                        "max": 10000000,
+                        "min": 190000
+                    },
+                    "-2": {
+                        "def": 200000,
+                        "max": 10000000,
+                        "min": 190000
+                    },
+                    "0": {
+                        "def": 190000,
+                        "max": 10000000,
+                        "min": 190000
+                    }
+                }
+            },
+            "d1a929e2-088c-4ea0-bcde-0505f02da2c2": {
+                "enabled": true,
+                "match": {
+                    "mode": "net_class",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "4e6fac23-1fe3-4326-b5d2-71e1386c6c86",
+                    "net_name_regex": ""
+                },
+                "order": 0,
+                "widths": {
+                    "-1": {
+                        "def": 200000,
+                        "max": 10000000,
+                        "min": 190000
+                    },
+                    "-100": {
+                        "def": 300000,
+                        "max": 10000000,
+                        "min": 190000
+                    },
+                    "-2": {
+                        "def": 200000,
+                        "max": 10000000,
+                        "min": 190000
+                    },
+                    "0": {
+                        "def": 300000,
+                        "max": 10000000,
+                        "min": 190000
+                    }
+                }
+            }
+        },
+        "via": {
+            "00f88d1a-3c1d-4a5b-aba8-b6b1c29e1734": {
+                "enabled": true,
+                "match": {
+                    "mode": "all",
+                    "net": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "a02ac11a-6c07-493a-9027-5294e0f81d0f",
+                    "net_name_regex": ""
+                },
+                "order": 0,
+                "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
+                "parameter_set": {
+                    "hole_diameter": 254000,
+                    "via_diameter": 500000
+                }
+            }
+        }
+    },
+    "rules_type": "board",
+    "type": "rules",
+    "uuid": "55e5bb6d-7ecd-4e40-b391-8abb538e848b"
+}
