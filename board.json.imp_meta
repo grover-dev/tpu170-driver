@@ -30,8 +30,8 @@
         "layer_opacity": 50.0,
         "layers": {
             "-1": {
-                "display_mode": "fill_only",
-                "visible": false
+                "display_mode": "dotted",
+                "visible": true
             },
             "-100": {
                 "display_mode": "fill_only",
@@ -43,7 +43,7 @@
             },
             "-120": {
                 "display_mode": "hatch",
-                "visible": true
+                "visible": false
             },
             "-130": {
                 "display_mode": "fill",
@@ -59,10 +59,10 @@
             },
             "-160": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "-2": {
-                "display_mode": "hatch",
+                "display_mode": "fill",
                 "visible": false
             },
             "-200": {
@@ -71,7 +71,7 @@
             },
             "0": {
                 "display_mode": "fill",
-                "visible": true
+                "visible": false
             },
             "10": {
                 "display_mode": "outline",
@@ -99,7 +99,7 @@
             },
             "40": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "50": {
                 "display_mode": "outline",
@@ -120,7 +120,6 @@
             "0a8dd633-839a-42b3-82da-ca2c7632a708": true,
             "0c887041-8bd4-4b29-b685-d216d5c8f699": true,
             "11d10bc7-24f1-41d9-91ea-13ceea2aeba6": true,
-            "1583d93f-16c4-4478-a1cb-6c4355cd253c": true,
             "15cb73be-444d-4904-a371-3a1f85dddd3c": true,
             "1978bdf4-c6a1-46c5-96fb-0a40f0f22bd2": true,
             "19e14880-5255-431e-ad07-f0128aa2d788": true,
@@ -151,7 +150,6 @@
             "43797ab0-62bd-4eec-9f8e-e9bf6f55a8f4": true,
             "43c42711-cc50-4929-a491-c2ac8ba4c6e4": true,
             "46ee37da-7f27-4825-b479-79bef9522979": true,
-            "480f9a6a-5cfa-4188-b05c-7bf69e257891": true,
             "49d1e7a5-d951-41a1-b065-5fc581a11402": true,
             "4a533b89-477c-4954-9beb-3083be638753": true,
             "4dd6d9e7-2d26-419c-a4e5-d386b559567e": true,
@@ -173,10 +171,8 @@
             "66b61131-76e5-4f17-ae42-2533c7734fdc": true,
             "67e8d865-2098-43c9-bc0c-93e3faeb9105": true,
             "6fdebb66-916b-49bc-8f7f-663de0c8f9ac": true,
-            "754a1638-304b-47f9-b0de-e5f75d740dfd": true,
             "771d721e-0817-4354-b309-43ff563c7eeb": true,
             "78e21920-e8bd-4b90-83bf-bff1fa8ae648": true,
-            "7946a4b0-6d27-4ef6-a86e-3f8ea2b40191": true,
             "797ebdc9-8431-4d13-8645-4fb765378dcc": true,
             "7c2b2717-a305-4d66-93f2-8cc5e4db6b72": true,
             "7f34dc77-8edc-4110-83f9-b5269f53b97e": true,
@@ -203,7 +199,6 @@
             "b74b8897-7195-44a1-9598-cc2dd6414998": true,
             "b921dd32-4201-40f9-bc37-e9e562956358": true,
             "bc53be8e-ae77-4f31-9641-ad4ae2c758a4": true,
-            "bd1ff3ec-ce3f-4833-a9c9-6c48d7d2fad0": true,
             "bd289211-847e-4b1a-9dee-39731517d823": true,
             "c224ba9d-a27c-4ff9-abc0-4220775125b2": true,
             "c44aac3f-53c2-45a6-8c90-d3ba5ff60887": true,
@@ -216,7 +211,6 @@
             "cd75ea31-a8db-4115-8df8-438a5730d65d": true,
             "cfb63db1-20de-4082-8cf0-efb1551ddfbd": true,
             "cfc86051-37fe-4b24-ae89-0ac1126ae0bd": true,
-            "d766ee5e-188c-44ac-855f-f48b8847594a": true,
             "dc41d49e-dedc-42cf-8521-3ad6c67ebecf": true,
             "dd31905c-868e-45d0-b852-c167818564fb": true,
             "e347e986-635b-487b-bfa9-e263ffc99474": true,
