@@ -31,7 +31,7 @@
         "layers": {
             "-1": {
                 "display_mode": "dotted",
-                "visible": true
+                "visible": false
             },
             "-100": {
                 "display_mode": "fill_only",
@@ -43,7 +43,7 @@
             },
             "-120": {
                 "display_mode": "hatch",
-                "visible": false
+                "visible": true
             },
             "-130": {
                 "display_mode": "fill",
@@ -87,7 +87,7 @@
             },
             "20": {
                 "display_mode": "fill_only",
-                "visible": true
+                "visible": false
             },
             "200": {
                 "display_mode": "fill",
@@ -99,7 +99,7 @@
             },
             "40": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "50": {
                 "display_mode": "outline",

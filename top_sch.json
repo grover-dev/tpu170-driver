@@ -407,6 +407,12 @@
                         151250000
                     ]
                 },
+                "6ae68ddc-23a3-4575-8e68-87664927c21f": {
+                    "position": [
+                        361250000,
+                        266250000
+                    ]
+                },
                 "6c00c52c-e1f6-4834-ab28-67376bb55f1e": {
                     "position": [
                         40000000,
@@ -423,6 +429,12 @@
                     "position": [
                         6250000,
                         187500000
+                    ]
+                },
+                "6e3741a3-18bd-4676-9bf2-6ffe5a609058": {
+                    "position": [
+                        361250000,
+                        226250000
                     ]
                 },
                 "6f20888d-c451-4e99-a021-edce31808c0f": {
@@ -537,6 +549,12 @@
                     "position": [
                         58750000,
                         220000000
+                    ]
+                },
+                "80d6d71b-34de-4d89-b6d6-169c450ed5bd": {
+                    "position": [
+                        333750000,
+                        226250000
                     ]
                 },
                 "80f9af74-398a-40c1-8da7-0bbdc4e4909a": {
@@ -711,6 +729,12 @@
                     "position": [
                         285000000,
                         223750000
+                    ]
+                },
+                "a3f2ea9b-0dcc-4ee3-8a71-64c166cbe07e": {
+                    "position": [
+                        333750000,
+                        266250000
                     ]
                 },
                 "a75b216f-e8eb-4fc3-a2f2-ab8e11e24a3e": {
@@ -1123,6 +1147,18 @@
                     "to": "4cf558d7-7f8c-4d60-8a2f-6faa66f5c42d",
                     "width": 0
                 },
+                "1978d7e2-12bd-4e6e-9aab-3032e2951411": {
+                    "from": "80d6d71b-34de-4d89-b6d6-169c450ed5bd",
+                    "layer": 0,
+                    "to": "a3f2ea9b-0dcc-4ee3-8a71-64c166cbe07e",
+                    "width": 0
+                },
+                "1986b04b-c811-40a4-8713-5ff380e2d926": {
+                    "from": "a3f2ea9b-0dcc-4ee3-8a71-64c166cbe07e",
+                    "layer": 0,
+                    "to": "6ae68ddc-23a3-4575-8e68-87664927c21f",
+                    "width": 0
+                },
                 "1a776fe8-55d8-42dc-bd84-f5f87df7686b": {
                     "from": "6a0f90c2-4d3b-4475-b17f-bfb33b6e73cc",
                     "layer": 0,
@@ -1211,6 +1247,12 @@
                     "from": "beddac63-7aa1-4bc6-a184-1c4c1e56a86f",
                     "layer": 0,
                     "to": "eae09f55-4517-48e7-a1a4-c1100d14dd9d",
+                    "width": 0
+                },
+                "63987c85-65f5-4502-8909-1e54d3080ccf": {
+                    "from": "6ae68ddc-23a3-4575-8e68-87664927c21f",
+                    "layer": 0,
+                    "to": "6e3741a3-18bd-4676-9bf2-6ffe5a609058",
                     "width": 0
                 },
                 "63ff0870-0815-4d8c-ae0c-02a27aceabf1": {
@@ -1355,6 +1397,12 @@
                     "from": "6d9bd089-27da-4479-8f9b-8db8a33c70b0",
                     "layer": 0,
                     "to": "2adae0d1-36d7-4667-8eb4-d1bb0413393c",
+                    "width": 0
+                },
+                "d88d54c7-fa4e-4833-85aa-537e86b99b09": {
+                    "from": "6e3741a3-18bd-4676-9bf2-6ffe5a609058",
+                    "layer": 0,
+                    "to": "80d6d71b-34de-4d89-b6d6-169c450ed5bd",
                     "width": 0
                 },
                 "daf13b42-e8db-4777-8f35-3e8329d24abe": {
@@ -5626,6 +5674,23 @@
                     },
                     "size": 1500000,
                     "text": "$REFDES",
+                    "width": 0
+                },
+                "e57b2344-4590-44b4-95a8-5ab6fe9b9156": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            333750000,
+                            267500000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "Extra connections",
                     "width": 0
                 },
                 "e58b943c-cbcc-48b4-9cce-cdb2ec0de8e7": {
